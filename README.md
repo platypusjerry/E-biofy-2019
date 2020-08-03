@@ -7,6 +7,7 @@ OVERVIEW:
 Algorithms are to be evaluated for detection and classification of cancer affected regions. This task has high clinical relevance since early detection of anomalies and metastases in affected areas would reduce the workload of pathologists in both detection and diagnosis. 
  
 The task in this challenge is to determine a pN-stage for every patient in the test dataset. To compose a pN-stage, the number of positive lymph nodes (i.e. nodes with a metastasis) are counted. There are two categories of lymph node metastasis:
+
 Macro-metastases: metastases greater than 2.0 mm.
 
 Micro-metastases: metastases greater than 0.2 mm or more than 200 cells, but smaller than 2.0 mm.
