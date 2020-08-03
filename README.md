@@ -1,4 +1,4 @@
-# E-biofy-2019
+# E-biofy-Techniche 2019
 
 This event is an amalgamation of bio-statistics and relevant computational algorithms, namely machine learning, which aims to test budding students on their coding skills, as well as comprehending biological information.
 
