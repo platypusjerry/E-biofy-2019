@@ -1,5 +1,8 @@
 # E-biofy-Techniche 2019
 
+![67716870_2500750939945261_6370823697095196672_n](https://user-images.githubusercontent.com/45762816/89304012-92814e00-d68a-11ea-81a7-72b40fbbe71c.png)
+
+
 This event is an amalgamation of bio-statistics and relevant computational algorithms, namely machine learning, which aims to test budding students on their coding skills, as well as comprehending biological information.
 
 ## OVERVIEW:
