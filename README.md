@@ -2,7 +2,7 @@
 
 This event is an amalgamation of bio-statistics and relevant computational algorithms, namely machine learning, which aims to test budding students on their coding skills, as well as comprehending biological information.
 
-OVERVIEW:
+##OVERVIEW:
 
 Algorithms are to be evaluated for detection and classification of cancer affected regions. This task has high clinical relevance since early detection of anomalies and metastases in affected areas would reduce the workload of pathologists in both detection and diagnosis. 
  
